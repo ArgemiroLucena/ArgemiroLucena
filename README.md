@@ -1,6 +1,6 @@
 ### Salve galera! Sou o Argemiro Lucena 
 - 🎓 Formado em Meteorologia (2011) e em Química Industrial (2007)
-- :man_student: Estudando HTML Web Developer na DIO
+- :man_student: Fazendo o bootcamp Eduzz Fullstack Developer na DIO
 - :seedling: Migrando para área de programação e TI
 - :coffee:  Trabalho como consultor
 <div>
